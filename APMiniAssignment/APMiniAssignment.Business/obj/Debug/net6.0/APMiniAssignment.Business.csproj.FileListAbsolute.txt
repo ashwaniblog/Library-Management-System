@@ -1,0 +1,24 @@
+C:\Users\ashwnipandey\source\repos\APMiniAssignment\APMiniAssignment.Business\bin\Debug\net6.0\APMiniAssignment.Business.deps.json
+C:\Users\ashwnipandey\source\repos\APMiniAssignment\APMiniAssignment.Business\bin\Debug\net6.0\APMiniAssignment.Business.dll
+C:\Users\ashwnipandey\source\repos\APMiniAssignment\APMiniAssignment.Business\bin\Debug\net6.0\APMiniAssignment.Business.pdb
+C:\Users\ashwnipandey\source\repos\APMiniAssignment\APMiniAssignment.Business\obj\Debug\net6.0\APMiniAssignment.Business.csproj.AssemblyReference.cache
+C:\Users\ashwnipandey\source\repos\APMiniAssignment\APMiniAssignment.Business\obj\Debug\net6.0\APMiniAssignment.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashwnipandey\source\repos\APMiniAssignment\APMiniAssignment.Business\obj\Debug\net6.0\APMiniAssignment.Business.AssemblyInfoInputs.cache
+C:\Users\ashwnipandey\source\repos\APMiniAssignment\APMiniAssignment.Business\obj\Debug\net6.0\APMiniAssignment.Business.AssemblyInfo.cs
+C:\Users\ashwnipandey\source\repos\APMiniAssignment\APMiniAssignment.Business\obj\Debug\net6.0\APMiniAssignment.Business.csproj.CoreCompileInputs.cache
+C:\Users\ashwnipandey\source\repos\APMiniAssignment\APMiniAssignment.Business\obj\Debug\net6.0\APMiniAssignment.Business.dll
+C:\Users\ashwnipandey\source\repos\APMiniAssignment\APMiniAssignment.Business\obj\Debug\net6.0\refint\APMiniAssignment.Business.dll
+C:\Users\ashwnipandey\source\repos\APMiniAssignment\APMiniAssignment.Business\obj\Debug\net6.0\APMiniAssignment.Business.pdb
+C:\Users\ashwnipandey\source\repos\APMiniAssignment\APMiniAssignment.Business\obj\Debug\net6.0\ref\APMiniAssignment.Business.dll
+C:\Ashwni-kumar-pandey dotnet mini project 2\APMiniAssignment\APMiniAssignment.Business\bin\Debug\net6.0\APMiniAssignment.Business.deps.json
+C:\Ashwni-kumar-pandey dotnet mini project 2\APMiniAssignment\APMiniAssignment.Business\bin\Debug\net6.0\APMiniAssignment.Business.dll
+C:\Ashwni-kumar-pandey dotnet mini project 2\APMiniAssignment\APMiniAssignment.Business\bin\Debug\net6.0\APMiniAssignment.Business.pdb
+C:\Ashwni-kumar-pandey dotnet mini project 2\APMiniAssignment\APMiniAssignment.Business\obj\Debug\net6.0\APMiniAssignment.Business.csproj.AssemblyReference.cache
+C:\Ashwni-kumar-pandey dotnet mini project 2\APMiniAssignment\APMiniAssignment.Business\obj\Debug\net6.0\APMiniAssignment.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ashwni-kumar-pandey dotnet mini project 2\APMiniAssignment\APMiniAssignment.Business\obj\Debug\net6.0\APMiniAssignment.Business.AssemblyInfoInputs.cache
+C:\Ashwni-kumar-pandey dotnet mini project 2\APMiniAssignment\APMiniAssignment.Business\obj\Debug\net6.0\APMiniAssignment.Business.AssemblyInfo.cs
+C:\Ashwni-kumar-pandey dotnet mini project 2\APMiniAssignment\APMiniAssignment.Business\obj\Debug\net6.0\APMiniAssignment.Business.csproj.CoreCompileInputs.cache
+C:\Ashwni-kumar-pandey dotnet mini project 2\APMiniAssignment\APMiniAssignment.Business\obj\Debug\net6.0\APMiniAssignment.Business.dll
+C:\Ashwni-kumar-pandey dotnet mini project 2\APMiniAssignment\APMiniAssignment.Business\obj\Debug\net6.0\refint\APMiniAssignment.Business.dll
+C:\Ashwni-kumar-pandey dotnet mini project 2\APMiniAssignment\APMiniAssignment.Business\obj\Debug\net6.0\APMiniAssignment.Business.pdb
+C:\Ashwni-kumar-pandey dotnet mini project 2\APMiniAssignment\APMiniAssignment.Business\obj\Debug\net6.0\ref\APMiniAssignment.Business.dll

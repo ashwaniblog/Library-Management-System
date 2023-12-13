@@ -1,0 +1,51 @@
+<nav class="navbar navbar-expand-lg fixed-top bg-light navbar-light">
+  <div class="container">
+    <h1 class="display-6" routerLink="" style="font-size: 1.75rem;">Library Management System</h1>
+    <!-- <button
+        class="navbar-toggler"
+        type="button"
+        data-mdb-toggle="collapse"
+        data-mdb-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+      <i class="fas fa-bars"></i>
+      </button> -->
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ms-auto align-items-center">
+        <li class="nav-item">
+          <span *ngIf="email">{{ email }}</span>
+        </li>
+        <li class="nav-item" *ngIf="isLoggedIn">
+          <a class="nav-link mx-2" routerLink="AddBooks" (click)="fecthUserid()"><i
+              class="fas fa-plus-circle pe-2"></i>Add Books</a>
+        </li>
+
+        <li class="nav-item" *ngIf="isLoggedIn">
+          <a class="nav-link mx-2" >Tokens {{tokens}}</a>
+        </li>
+
+        <li class="nav-item" *ngIf="isLoggedIn">
+          <a class="nav-link mx-2" routerLink="ViewlentedBooks"><i class="fa-solid fa-book"></i>Lented Books</a>
+        </li>
+
+        <li class="nav-item" *ngIf="isLoggedIn">
+          <a class="nav-link mx-2" routerLink="ViewBorrowedBooks"><i class="fa-solid fa-book"></i>Borrowed Books</a>
+        </li>
+
+        <div class="navbar-nav ml-auto logout-button">
+          <div *ngIf="isLoggedIn; else elseBlock">
+            <a class="nav-link" href="/" (click)="logout()">Logout</a>
+          </div>
+        </div>
+        <ng-template #elseBlock>
+          <a class="nav-link btn btn-black btn-rounded" routerLink="RegisterUser">SignUp</a>
+          <a class="nav-link btn btn-black btn-rounded" routerLink="Login">Login</a>
+        </ng-template>
+      </ul>
+    </div>
+  </div>
+</nav>
+<router-outlet></router-outlet>
+<!-- <app-book-landing-page></app-book-landing-page> -->

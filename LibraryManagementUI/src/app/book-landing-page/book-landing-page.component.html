@@ -1,0 +1,38 @@
+<div class="container" style="margin-top: 80px;">
+    <div class="search-bar">
+      <input
+        type="text"
+        placeholder="Search books"
+        (input)="filterCars()"
+        #searchInput
+      >
+    </div>
+      <table class="table table-striped">
+        <thead >
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col">Name</th>
+            <th scope="col">Rating</th>
+            <th scope="col">Author</th>
+            <th scope="col">Genre</th>
+            <th scope="col">Description</th>
+            <th scope="col" *ngIf="email">View Details</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let book of filteredBookCollection; let i = index">
+            <td>{{ i + 1 }}</td>
+            <td>{{ book.name }}</td>
+            <td>{{ book.rating }}</td>
+            <td>{{ book.author }}</td>
+            <td>{{ book.genre }}</td>
+            <td>{{ book.description }}</td>
+            <td *ngIf="email">
+              <div class="center-items">
+                <a (click)="availablebook(book.id)" style='font-size:25px; color: black;' ><i class="fa-solid fa-book"></i></a>
+              </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>

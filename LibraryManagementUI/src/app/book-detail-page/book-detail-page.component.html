@@ -1,0 +1,36 @@
+<div class="card-container" style="align-items: center;margin-top: 80px;">
+    <div class="card ">
+      <h2>Book Detail</h2>
+      <div class="container table-container">
+        <table class="table table-striped">
+          <thead class="text-center">
+            <tr>
+              <th scope="col">#</th>
+              <th scope="col">Name</th>
+              <th scope="col">Rating</th>
+              <th scope="col">Author</th>
+              <th scope="col">Genre</th>
+              <th scope="col">Description</th>
+              <th scope="col">Action</th>
+            </tr>
+          </thead>
+          <tbody class="text-center">
+            <tr *ngFor="let book of bookCollection; let i = index">
+              <td>{{ i + 1 }}</td>
+              <td>{{ book.name }}</td>
+              <td>{{ book.rating }}</td>
+              <td>{{ book.author }}</td>
+              <td>{{ book.genre }}</td>
+              <td>{{ book.description }}</td>
+              <td>
+                <div class="center-items" *ngIf="email">
+                  <button type="submit" class="btn btn-success btn-sm" (click)="sendData(book.lent_By_User_id)">Borrow</button>
+                </div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+

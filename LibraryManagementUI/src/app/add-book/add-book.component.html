@@ -1,0 +1,75 @@
+<div class="container" style="margin-top: 80px;">
+    <div class="form-container">
+      <h2>Book Form</h2>
+      <form [formGroup]="addCars" (ngSubmit)="Submit()" *ngIf="addCars" class="needs-validation" novalidate>
+        <div class="form-group">
+          <label for="Name">Book Name</label>
+          <input type="text" id="Name" name="Name" formControlName="Name" required>
+          <div class="form-text text-danger"
+            *ngIf="Name.errors?.['required'] && (Name.touched || Name.dirty)">
+            Name is Required
+          </div>
+          <div class="form-text text-danger"
+            *ngIf="Name.errors?.['maxlength'] && (Name.touched || Name.dirty)">
+            Max 50 characters only
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="Rating">Rating</label>
+          <input type="number" id="Rating" name="Rating" formControlName="Rating" required>
+          <div class="form-text text-danger"
+            *ngIf="Rating.errors?.['required'] && (Rating.touched || Rating.dirty)">
+            Rating is Required
+          </div>
+          <div class="form-text text-danger"
+            *ngIf="Rating.errors?.['pattern'] && (Rating.touched || Rating.dirty)">
+            Rating 0-5 only 
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="Author">Author</label>
+          <input type="text" id="Author" name="Author" formControlName="Author" required>
+          <div class="form-text text-danger"
+            *ngIf="Author.errors?.['required'] && (Author.touched || Author.dirty)">
+            Author is Required
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="Genre">Genre</label>
+          <input type="text" id="Genre" name="Genre" formControlName="Genre" required>
+          <div class="form-text text-danger"
+            *ngIf="Genre.errors?.['required'] && (Genre.touched|| Genre.dirty)">
+            Genre is required
+          </div>
+          <div class="form-text text-danger"
+            *ngIf="Genre.errors?.['maxlength'] && (Genre.touched || Genre.dirty)">
+            Max 20 characters only
+          </div>
+        </div>
+
+        <div class="form-group">
+            <label for="description">Description</label>
+            <input type="text" id="Description" name="Description" formControlName="Description" required>
+            <div class="form-text text-danger"
+              *ngIf="Description.errors?.['required'] && (Description.touched|| Description.dirty)">
+              Description is required
+            </div>
+        </div>
+
+
+        <!-- <div class="form-group">
+            <label for="borrowed">Borrower ID</label>
+            <input type="text" id="currently_Borrowed_By_User_Id" name="currently_Borrowed_By_User_Id" formControlName="currently_Borrowed_By_User_Id" required>
+            <div class="form-text text-danger"
+              *ngIf="currently_Borrowed_By_User_Id.errors?.['required'] && (currently_Borrowed_By_User_Id.touched|| currently_Borrowed_By_User_Id.dirty)">
+              Description is required
+            </div>
+        </div> -->
+        
+        <div class="form-group">
+          <input type="submit" value="Submit">
+        </div>
+      </form>
+    </div>
+  </div>
+  

@@ -1,0 +1,30 @@
+C:\Users\ashwnipandey\source\repos\APMiniAssignment\APMiniAssignment.DataAccess\bin\Debug\net6.0\APMiniAssignment.DataAccess.deps.json
+C:\Users\ashwnipandey\source\repos\APMiniAssignment\APMiniAssignment.DataAccess\bin\Debug\net6.0\APMiniAssignment.DataAccess.dll
+C:\Users\ashwnipandey\source\repos\APMiniAssignment\APMiniAssignment.DataAccess\bin\Debug\net6.0\APMiniAssignment.DataAccess.pdb
+C:\Users\ashwnipandey\source\repos\APMiniAssignment\APMiniAssignment.DataAccess\bin\Debug\net6.0\APMiniAssignment.Business.dll
+C:\Users\ashwnipandey\source\repos\APMiniAssignment\APMiniAssignment.DataAccess\bin\Debug\net6.0\APMiniAssignment.Business.pdb
+C:\Users\ashwnipandey\source\repos\APMiniAssignment\APMiniAssignment.DataAccess\obj\Debug\net6.0\APMiniAssignment.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ashwnipandey\source\repos\APMiniAssignment\APMiniAssignment.DataAccess\obj\Debug\net6.0\APMiniAssignment.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashwnipandey\source\repos\APMiniAssignment\APMiniAssignment.DataAccess\obj\Debug\net6.0\APMiniAssignment.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ashwnipandey\source\repos\APMiniAssignment\APMiniAssignment.DataAccess\obj\Debug\net6.0\APMiniAssignment.DataAccess.AssemblyInfo.cs
+C:\Users\ashwnipandey\source\repos\APMiniAssignment\APMiniAssignment.DataAccess\obj\Debug\net6.0\APMiniAssignment.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ashwnipandey\source\repos\APMiniAssignment\APMiniAssignment.DataAccess\obj\Debug\net6.0\APMiniAssignment.DataAccess.csproj.CopyComplete
+C:\Users\ashwnipandey\source\repos\APMiniAssignment\APMiniAssignment.DataAccess\obj\Debug\net6.0\APMiniAssignment.DataAccess.dll
+C:\Users\ashwnipandey\source\repos\APMiniAssignment\APMiniAssignment.DataAccess\obj\Debug\net6.0\refint\APMiniAssignment.DataAccess.dll
+C:\Users\ashwnipandey\source\repos\APMiniAssignment\APMiniAssignment.DataAccess\obj\Debug\net6.0\APMiniAssignment.DataAccess.pdb
+C:\Users\ashwnipandey\source\repos\APMiniAssignment\APMiniAssignment.DataAccess\obj\Debug\net6.0\ref\APMiniAssignment.DataAccess.dll
+C:\Ashwni-kumar-pandey dotnet mini project 2\APMiniAssignment\APMiniAssignment.DataAccess\bin\Debug\net6.0\APMiniAssignment.DataAccess.deps.json
+C:\Ashwni-kumar-pandey dotnet mini project 2\APMiniAssignment\APMiniAssignment.DataAccess\bin\Debug\net6.0\APMiniAssignment.DataAccess.dll
+C:\Ashwni-kumar-pandey dotnet mini project 2\APMiniAssignment\APMiniAssignment.DataAccess\bin\Debug\net6.0\APMiniAssignment.DataAccess.pdb
+C:\Ashwni-kumar-pandey dotnet mini project 2\APMiniAssignment\APMiniAssignment.DataAccess\bin\Debug\net6.0\APMiniAssignment.Business.dll
+C:\Ashwni-kumar-pandey dotnet mini project 2\APMiniAssignment\APMiniAssignment.DataAccess\bin\Debug\net6.0\APMiniAssignment.Business.pdb
+C:\Ashwni-kumar-pandey dotnet mini project 2\APMiniAssignment\APMiniAssignment.DataAccess\obj\Debug\net6.0\APMiniAssignment.DataAccess.csproj.AssemblyReference.cache
+C:\Ashwni-kumar-pandey dotnet mini project 2\APMiniAssignment\APMiniAssignment.DataAccess\obj\Debug\net6.0\APMiniAssignment.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ashwni-kumar-pandey dotnet mini project 2\APMiniAssignment\APMiniAssignment.DataAccess\obj\Debug\net6.0\APMiniAssignment.DataAccess.AssemblyInfoInputs.cache
+C:\Ashwni-kumar-pandey dotnet mini project 2\APMiniAssignment\APMiniAssignment.DataAccess\obj\Debug\net6.0\APMiniAssignment.DataAccess.AssemblyInfo.cs
+C:\Ashwni-kumar-pandey dotnet mini project 2\APMiniAssignment\APMiniAssignment.DataAccess\obj\Debug\net6.0\APMiniAssignment.DataAccess.csproj.CoreCompileInputs.cache
+C:\Ashwni-kumar-pandey dotnet mini project 2\APMiniAssignment\APMiniAssignment.DataAccess\obj\Debug\net6.0\APMiniAssignment.DataAccess.csproj.CopyComplete
+C:\Ashwni-kumar-pandey dotnet mini project 2\APMiniAssignment\APMiniAssignment.DataAccess\obj\Debug\net6.0\APMiniAssignment.DataAccess.dll
+C:\Ashwni-kumar-pandey dotnet mini project 2\APMiniAssignment\APMiniAssignment.DataAccess\obj\Debug\net6.0\refint\APMiniAssignment.DataAccess.dll
+C:\Ashwni-kumar-pandey dotnet mini project 2\APMiniAssignment\APMiniAssignment.DataAccess\obj\Debug\net6.0\APMiniAssignment.DataAccess.pdb
+C:\Ashwni-kumar-pandey dotnet mini project 2\APMiniAssignment\APMiniAssignment.DataAccess\obj\Debug\net6.0\ref\APMiniAssignment.DataAccess.dll
